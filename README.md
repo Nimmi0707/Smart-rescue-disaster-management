@@ -1,14 +1,8 @@
 # 🚨 Smart Rescue – Disaster Management & Emergency Response Platform
 
-<p align="center">
-  <strong>A modern web-based platform for disaster management, emergency reporting, response tracking, and emergency assistance.</strong>
-</p>
+**A modern web-based platform for disaster management, emergency reporting, response tracking, and emergency assistance.**
 
-<p align="center">
-  <a href="https://smart-rescue-disaster-management.vercel.app">🌐 Live Demo</a>
-  &nbsp; | &nbsp;
-  <a href="https://github.com/Nimmi0707/Smart-rescue-disaster-management">📂 GitHub Repository</a>
-</p>
+[🌐 Live Demo](https://smart-rescue-disaster-management.vercel.app/) &nbsp; | &nbsp; [📂 GitHub Repository](https://github.com/Nimmi0707/Smart-rescue-disaster-management)
 
 ---
 
@@ -162,25 +156,3 @@ Smart-rescue-disaster-management/
 ├── tsconfig.json
 ├── vite.config.ts
 └── README.md
-## 👩‍💻 Author
-
-**Nimmi**  
-**M.Tech – Computer Science & Engineering**
-
-### Project
-
-**Smart Rescue – Disaster Management & Emergency Response Platform**
-
-GitHub: https://github.com/Nimmi0707
-
----
-
-## 📄 License
-
-This project is developed for academic, educational, and demonstration purposes.
-
----
-
-<p align="center">
-  🚨 <strong>Smart Rescue – Every Second Counts.</strong>
-</p>
