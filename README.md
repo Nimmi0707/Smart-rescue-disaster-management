@@ -82,7 +82,6 @@ The project focuses on making emergency reporting and disaster response more org
 - Leaflet
 - Recharts
 - Lucide React
-- Google Gemini API
 
 ### Deployment & Version Control
 
